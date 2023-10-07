@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://www.linkedin.com/in/murilo-duarte-henriques-246089233/"> Murilo Duarte Henriques </a></h1>
 
-Olá! Sou Murilo Duarte Henriques, estudante de Sistemas de Informação na Universidade Santa Cecília. Atualmente, estou em estágio no processo de formação da MODALGR, onde estou aprimorando minhas habilidades técnicas e ganhando experiência prática. Meu foco principal no momento é o desenvolvimento backend, e estou empolgado em aprender cada vez mais sobre a área da tecnologia.
+Olá! Sou Murilo Duarte Henriques, estudante de Sistemas de Informação na Universidade Santa Cecília. Meu foco principal no momento é o desenvolvimento backend, e estou empolgado em aprender cada vez mais sobre a área da tecnologia.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhenriques&layout=compact&theme=tokyonight" width="350" align="center"/>
 
