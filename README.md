@@ -31,10 +31,7 @@
 
 ### 📌 Projetos em Destaque:
 - **🗂️ Plataforma Gamificada de Organização Pessoal**: Vue.js + FastAPI + PostgreSQL + Docker + Azure
-- **🤖 Webscraper com Bot do Telegram**: Python + Pandas + Automação
-- **🔐 Sistema de Autenticação**: Node.js + JWT + MongoDB
-- **🧠 Integrações com API da OpenAI**: NestJS & Spring Boot
-
+- **🤖 Webscraper com Bot do Telegram**: Python + Pandas + Automação + Integração API Telegram
 ---
 
 <p align="center">
